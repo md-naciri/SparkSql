@@ -25,7 +25,7 @@ Id,titre,description,service,date
 ---
 
 
-## 📈 Résultats Attendus
+## 📈 Résultats
 
 ### 1. Analyse par Service
 ```
