@@ -1,0 +1,16 @@
+Id,titre,description,service,date
+1,Panne serveur principal,Arrêt inattendu du serveur de production,IT,2023-03-15
+2,Fuite canalisation,Rupture de canalisation au niveau B2,Maintenance,2022-06-20
+3,Erreur transaction SAP,Échec de traitement des commandes,IT,2023-08-09
+4,Dysfonctionnement climatisation,Température excessive en salle serveur,Maintenance,2023-01-12
+5,Problème réseau,Connectivité intermittente,IT,2022-11-05
+6,Panne électrique,Coupure secteur bâtiment A,Maintenance,2024-02-18
+7,Bug application,Interface utilisateur inaccessible,IT,2023-07-22
+8,Fuite toiture,Infiltration d'eau bureau 205,Maintenance,2022-09-14
+9,Erreur base de données,Corruption de données client,IT,2024-01-30
+10,Défaillance ascenseur,Arrêt d'urgence ascenseur principal,Maintenance,2023-05-08
+11,Problème téléphonie,Lignes externes indisponibles,IT,2022-12-03
+12,Fuite gaz,Détection fuite cuisine,Sécurité,2023-10-15
+13,Panne serveur backup,Système de sauvegarde défaillant,IT,2024-03-07
+14,Dysfonctionnement alarme,Capteurs incendie défectueux,Sécurité,2022-08-25
+15,Erreur impression,Imprimantes réseau hors service,IT,2023-04-18
